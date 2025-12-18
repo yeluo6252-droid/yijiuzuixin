@@ -1,0 +1,7 @@
+{
+  "name": "粥粥的魔法圣诞树",
+  "description": "使用 Three.js 和 MediaPipe 制作的基于手势控制的 3D 互动圣诞体验。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
